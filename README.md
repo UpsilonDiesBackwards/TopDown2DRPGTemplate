@@ -2,16 +2,16 @@
 
 This is a in-development template that is intended to quicken up the process of creating a top down 2D unity game.
 It features:
-	- 2D Character Controller
-	- Cinemachine Camera System
-	- A* Pathfinding NPCs that can Roam, Patrol, and Persue. (albiet a bit broken)
-	- Inventory system (courtesy of PitilT on youtube: youtube.com/watch?v=v4Xqj0sanyU)
-	- Very simple combat
-	- Dialogue System
-	- Player can be hurt and heal at campfires.
-	- Basic tilemap
-	- Basic User Interface
-	- Hurt/Death voice lines made by yours truely :)
+- 2D Character Controller
+- Cinemachine Camera System
+- A* Pathfinding NPCs that can Roam, Patrol, and Persue. (albiet a bit broken)
+- Inventory system (courtesy of PitilT on youtube: youtube.com/watch?v=v4Xqj0sanyU)
+- Very simple combat
+- Dialogue System
+- Player can be hurt and heal at campfires.
+- Basic tilemap
+- Basic User Interface
+- Hurt/Death voice lines made by yours truely :)
 
 I have tried to write comments at the top of each script detailing what it does as verbosely as possible, except the inventory / item scripts. 
 I would suggest watching the video linked above for more information.
