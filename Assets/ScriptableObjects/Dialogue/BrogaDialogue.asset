@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b7e029d89b4869bc227512da43d987, type: 3}
+  m_Name: BrogaDialogue
+  m_EditorClassIdentifier: 
+  dialogueLineEntry:
+  - characterName: Jerma
+    dialogueText: Well hello there!
+    characterPortrait: {fileID: 21300000, guid: bbe1a783442dd3adb8768500a5f2dfd7, type: 3}
+  - characterName: Jerma
+    dialogueText: This is the TopDown2DRPGTemplate made by Upsilon / Tayler!
+    characterPortrait: {fileID: 21300000, guid: 3c5dd1b12f2fa9201a9bad2a5432eed2, type: 3}
+  - characterName: Jerma
+    dialogueText: I hope you have fun, it will be exciting to see what you create!
+    characterPortrait: {fileID: 21300000, guid: bbe1a783442dd3adb8768500a5f2dfd7, type: 3}
+  - characterName: Jerma
+    dialogueText: You better cook, or else the evil Broga will get you!
+    characterPortrait: {fileID: 21300000, guid: 3c5dd1b12f2fa9201a9bad2a5432eed2, type: 3}
+  - characterName: Evil Broga
+    dialogueText: (The evil broga stares into your eyes)
+    characterPortrait: {fileID: 21300000, guid: 16c82b7c74dbfb636949041695741999, type: 3}

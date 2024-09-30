@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - CameraBounds
+  - DialogueTrigger
+  - IgnorePlayer
+  - DeathZone
+  - SoundTrigger
+  - PostProcessing
+  - AI
+  - AIAvoid
+  - Item
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1246273149
+    locked: 0
+  - name: Characters
+    uniqueID: 1821545949
+    locked: 0
+  - name: Walls
+    uniqueID: 2815216923
+    locked: 0
