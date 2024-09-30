@@ -20,19 +20,24 @@ I would suggest watching the video linked above for more information.
 Download the project and open it up, if there are any package based errors, please refer below.
 
 ### Required Plugins:
-NavMeshPlus: https://github.com/h8man/NavMeshPlus.git
-    - Goto the unity package manager and click the `+` button and `Add from Git URL` and paste in the url above.
-A* PathFinding: https://arongranberg.com/astar/download
-    - Goto the url above and click `Download` under the `Free Version`. Then drag and drop the downloaded `*.UnityPackage` file into the template project.
-Cinemachine: Find on Unity Package Manager
-    - Goto the Unity Registry section of the package manager, find `Cinemachine` and install!
+Find the packages below and find their installation instructions via thier ID.
+
+| ID | Package       |                                      URL |
+|:---|:-------------:|:----------------------------------------:|
+|1   | NavMeshPlus   |https://github.com/h8man/NavMeshPlus.git  |
+|2   | A* PathFinding|https://arongranberg.com/astar/download   |
+|3   |Cinemachine    |N/A                                       |
+
+1 - Goto the unity package manager and click the `+` button and `Add from Git URL` and paste in the url above.
+
+2 - Goto the url above and click `Download` under the `Free Version`. Then drag and drop the downloaded `*.UnityPackage` file into the template project.
+
+3 - Goto the Unity Registry section of the package manager, find `Cinemachine` and install!
 
 ## Future development
 The development of this project will mostly coincide with the development of my personal project, and any of the features that I implement that can be abstracted I will most likely add to this project under a different branch. I aim to transfer my Cutscene and Quest system. However this may prove difficult as I will need to figure out how to fit everythings together.
 
-# Upgrading from one template to another
+## Upgrading from one template to another
 Currently it is not recommended to transfer an existing project from one template to another. (how would you even do that? 🤷)
 
-Many thanks,
-
-Tayler "Upsilon" Parsons
+# Many thanks, Tayler "Upsilon"
